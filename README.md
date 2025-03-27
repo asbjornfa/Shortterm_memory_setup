@@ -4,6 +4,8 @@ I made this project to showcase a simple solution for short-term memory in AI.
 
 This Ai will remember everything in the current session, but whenever the api is restarted the conversation will be cleared.
 
+
+
 **Setup vitual environment**
 
 If you currently dont have a .venv or base file please use this command to create one.
@@ -30,6 +32,8 @@ On Windows:
 base/Scripts/activate
 ```
 
+
+
 **Relevant imports**
 
 For relevant imports use this command:
@@ -43,6 +47,8 @@ For adding additional imports to the requirements file use this command:
 ```
 pip freeze > requirements.txt
 ```
+
+
 
 **How to run the application**
 
